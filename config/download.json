@@ -1,0 +1,20 @@
+{
+  "current": [
+    {
+      "version": "23.07.03",
+      "type": "Windows",
+      "size": "64bit",
+      "sha256": "c56c012f116e90101ff827376c3c520654ce66e30e706305e664ff07d6ccecbb",
+      "downUrl": "https://n1.daodst.com/daodst-win-23.07.03.exe"
+    },
+    {
+        "version": "23.07.03",
+        "type": "Linux",
+        "size": "64bit",
+        "sha256": "f06463ea937d92c8e528398ee98408ffc275e227b8d30bda944711d76daa21f4",
+        "downUrl": "https://n1.daodst.com/daodst-linux-230704.tar.gz"
+      }
+  ],
+  "history": {
+  }
+}
